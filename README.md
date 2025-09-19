@@ -16,3 +16,15 @@ Trained using a Neural Network with TensorFlow/Keras
 Responds to user input based on intent classification
 
 Easily customizable with new intents and responses
+
+# Technologies Used
+
+Python 
+
+NLTK (Natural Language Toolkit)
+
+TensorFlow / Keras
+
+NumPy
+
+
